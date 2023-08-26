@@ -15,7 +15,7 @@ print(f"Fecha del dia de hoy-> {fecha_actual}\n")
 
 edad = fecha_actual.year - fecha_Nac.year
 
-print(f"En este año {fecha_actual.year} cumples {edad} años.")
+print(f"En este año {fecha_actual.year} cumples {edad} años")
 
 
 
